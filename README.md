@@ -1,4 +1,4 @@
-# Youtube-Sentiment-Insights
+# Youtube-Comments_Analysis-Plugin
 Machine Learning Pipeline
 
 
